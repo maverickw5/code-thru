@@ -1,3 +1,3 @@
 # Code-Thru
-code-thru.web.app/
+https://code-thru.web.app/
 A fast, lightweight web IDE for everyone
