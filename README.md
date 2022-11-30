@@ -13,3 +13,7 @@ Install the packages
  ```sh
  npm install
  ```
+Run it on localhost
+ ```sh
+ npm run start
+ ```
