@@ -9,3 +9,7 @@ Clone the repo
  ```sh
  git clone https://github.com/maverickw5/code-thru.git
  ```
+Install the packages
+ ```sh
+ npm install
+ ```
