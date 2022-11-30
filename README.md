@@ -1,4 +1,6 @@
 # Code-Thru
 https://code-thru.web.app/
 
-A fast, lightweight web IDE for everyone
+A fast, lightweight web IDE for everyone. Powered by JDoodle.
+
+
